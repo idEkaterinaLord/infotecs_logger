@@ -1,0 +1,23 @@
+# CMake build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled object files
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.out
+
+# Logs
+*.log
+log.txt
+
+# Misc
+*.swp
+*.user
+*.DS_Store
